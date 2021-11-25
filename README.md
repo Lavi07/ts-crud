@@ -1,2 +1,2 @@
-# ts-crud
-This is a TypeScript project where i have used OOP concept
+First run npm i for install the node_modules
+Run npm start that will generate dist folder with JS files
